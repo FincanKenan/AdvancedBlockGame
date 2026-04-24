@@ -49,7 +49,7 @@ Tile matching and interaction feedback system.
 
 ### 🔄 Game Flow
 
-<img width="500" height="700" alt="image" src="https://github.com/user-attachments/assets/092c8118-8ec2-4044-80b3-59c4f5bf029d" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/092c8118-8ec2-4044-80b3-59c4f5bf029d" />
 
 Core gameplay loop in action (selection → match → clear).
 
@@ -57,7 +57,7 @@ Core gameplay loop in action (selection → match → clear).
 
 ### 🗺️ Level Structure
 
-<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/c53d6da9-eedc-4344-b43b-101294ab338e" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/c53d6da9-eedc-4344-b43b-101294ab338e" />
 
 Example of grid layout and level structure.
 
