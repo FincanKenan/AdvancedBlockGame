@@ -4,38 +4,11 @@ A Unity-based puzzle prototype focused on **grid-based mechanics**, **match syst
 
 ---
 
-## 🧠 Project Overview
-
-This project is a prototype designed to explore:
-
-- Match-based puzzle mechanics  
-- Grid system architecture  
-- Player interaction and feedback loops  
-- Modular and scalable gameplay systems  
-
-It serves as a foundation for more advanced puzzle systems such as **Zen Match / Royal Match-style mechanics**.
-
----
-
-## ⚙️ Core Features
-
-- 🔹 Grid-based tile system  
-- 🔹 Match detection logic  
-- 🔹 Interactive tile selection  
-- 🔹 Basic game loop (input → match → clear → refill)  
-- 🔹 Modular system structure for expansion  
-
----
-
-## 🎮 Gameplay
----
-
 ## 🎮 Gameplay Showcase
 
 🧩 Match-3 / Tile System Showcase
 
 <img width="800" height="450" alt="2026-04-2420-41-21-ezgif com-optimize" src="https://github.com/user-attachments/assets/21f84a3f-d3f8-435e-8992-6137ac951606" />
-
 
 A system-focused prototype demonstrating tile stacking, selection, and matching mechanics inspired by industry-standard puzzle systems.
 
@@ -68,7 +41,29 @@ Core gameplay loop in action (selection → match → clear).
 
 Example of grid layout and level structure.
 
+## 🧠 Project Overview
+
+This project is a prototype designed to explore:
+
+- Match-based puzzle mechanics  
+- Grid system architecture  
+- Player interaction and feedback loops  
+- Modular and scalable gameplay systems  
+
+It serves as a foundation for more advanced puzzle systems such as **Zen Match / Royal Match-style mechanics**.
+
 ---
+
+## ⚙️ Core Features
+
+- 🔹 Grid-based tile system  
+- 🔹 Match detection logic  
+- 🔹 Interactive tile selection  
+- 🔹 Basic game loop (input → match → clear → refill)  
+- 🔹 Modular system structure for expansion  
+
+---
+
 ### 🧩 Mechanics
 Basic match-based interactions where the player selects tiles and triggers matching logic.
 
