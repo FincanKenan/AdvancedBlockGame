@@ -32,6 +32,13 @@ It serves as a foundation for more advanced puzzle systems such as **Zen Match /
 
 ## 🎮 Gameplay Showcase
 
+🧩 Match-3 / Tile System Showcase
+
+<img width="800" height="450" alt="2026-04-2420-41-21-ezgif com-optimize" src="https://github.com/user-attachments/assets/21f84a3f-d3f8-435e-8992-6137ac951606" />
+
+
+A system-focused prototype demonstrating tile stacking, selection, and matching mechanics inspired by industry-standard puzzle systems.
+
 ### 🧩 Core Mechanics
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/aab52e12-9cda-4422-8e18-2d65cc9177d2" />
